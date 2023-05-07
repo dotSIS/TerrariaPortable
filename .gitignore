@@ -1,6 +1,6 @@
 # Skip all files
 *
 
-# Except
+# Except for
 !Players/
 !Worlds/
