@@ -1,7 +1,7 @@
 # Skip all files
 /*
-!.gitignore
 
 # Except for
-!/Players
-!/Worlds
+!.gitignore
+!Players/
+!Worlds/
