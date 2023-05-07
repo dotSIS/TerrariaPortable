@@ -1,0 +1,14 @@
+{
+  "Configured": false,
+  "ForcedScheme": 2,
+  "profileType": "Unity",
+  "deviceName": "GamepadPlus",
+  "deviceNotes": "",
+  "deviceClass": "Unknown",
+  "deviceStyle": "Unknown",
+  "sensitivity": 1.0,
+  "lowerDeadZone": 0.2,
+  "upperDeadZone": 0.9,
+  "analogMappings": [],
+  "buttonMappings": []
+}

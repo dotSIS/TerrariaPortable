@@ -1,0 +1,175 @@
+{
+  "Profiles": [
+    {
+      "": "Fullscreen",
+      "Resolution": 492,
+      "Collapsed": {},
+      "Left": [
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "AllowedCategories": [
+            "Inventory"
+          ],
+          "SettingEntries": [
+            "JM",
+            "Bestiary",
+            "Emotes",
+            "Settings"
+          ],
+          "LastSelectedSet": false,
+          "LastSelectedCategory": "None"
+        },
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 0.0,
+            "Y": 246.0
+          },
+          "AllowedCategories": [
+            "Chest",
+            "Crafting",
+            "Duplicate",
+            "Research"
+          ],
+          "SettingEntries": [],
+          "LastSelectedSet": false,
+          "LastSelectedCategory": "None"
+        }
+      ],
+      "Right": [
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopRight",
+          "Location": {
+            "X": 0.0,
+            "Y": 246.0
+          },
+          "AllowedCategories": [
+            "Equipment",
+            "Housing",
+            "PVP"
+          ],
+          "SettingEntries": [],
+          "LastSelectedSet": false,
+          "LastSelectedCategory": "None"
+        }
+      ]
+    },
+    {
+      "": "Split Screen",
+      "Resolution": 492,
+      "Collapsed": {},
+      "Left": [
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "AllowedCategories": [
+            "Inventory"
+          ],
+          "SettingEntries": [
+            "JM",
+            "Bestiary",
+            "Emotes",
+            "Settings"
+          ],
+          "LastSelectedSet": false,
+          "LastSelectedCategory": "None"
+        },
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 0.0,
+            "Y": 246.0
+          },
+          "AllowedCategories": [
+            "Chest",
+            "Crafting",
+            "Duplicate",
+            "Research"
+          ],
+          "SettingEntries": [],
+          "LastSelectedSet": false,
+          "LastSelectedCategory": "None"
+        }
+      ],
+      "Right": [
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopRight",
+          "Location": {
+            "X": 0.0,
+            "Y": 246.0
+          },
+          "AllowedCategories": [
+            "Equipment",
+            "Housing",
+            "PVP"
+          ],
+          "SettingEntries": [],
+          "LastSelectedSet": false,
+          "LastSelectedCategory": "None"
+        }
+      ]
+    },
+    {
+      "": "Touch",
+      "Resolution": 0,
+      "Collapsed": {
+        "Crafting": true,
+        "Equipment": false,
+        "PVP": true,
+        "Housing": true,
+        "CraftingGuide": true
+      },
+      "Left": [
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopLeft",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "AllowedCategories": [
+            "Inventory",
+            "Housing",
+            "PVP"
+          ],
+          "SettingEntries": [
+            "Settings"
+          ],
+          "LastSelectedSet": true,
+          "LastSelectedCategory": "Inventory"
+        }
+      ],
+      "Right": [
+        {
+          "AnchorControl": "Screen",
+          "Anchor": "TopRight",
+          "Location": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "AllowedCategories": [
+            "Chest",
+            "Crafting",
+            "Equipment"
+          ],
+          "SettingEntries": [],
+          "LastSelectedSet": true,
+          "LastSelectedCategory": "Crafting"
+        }
+      ]
+    }
+  ]
+}
